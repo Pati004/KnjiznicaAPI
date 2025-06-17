@@ -1,0 +1,6 @@
+@KnjiznicaAPI_HostAddress = http://localhost:5253
+
+GET {{KnjiznicaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
